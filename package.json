@@ -1,8 +1,8 @@
 {
-  "name": "ecom-app",
+  "homepage": "http://forhad36.github.io/online-shop",
+  "name": "online-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://forhad36.github.io/react-gh-pages",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
